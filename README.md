@@ -1,6 +1,14 @@
 # Simple CRM
 
-A lightweight, easy-to-use CRM system built with Flask and SQLite. Perfect for small organizations that need a simple way to manage customer relationships without the complexity of enterprise solutions.
+A lightweight, easy-to-use CRM system built with Flask and SQLite. Perfect for small organizations that need a simple way to manage customer relationships without the complexity of enterprise solutions. This is a completely self-hosted, free solution that puts you in control of your data.
+
+## Why Self-Hosted?
+
+- **Free Forever**: No monthly subscriptions or hidden costs
+- **Data Privacy**: Keep your customer data entirely under your control
+- **Customizable**: Modify the code to fit your specific needs
+- **No Internet Required**: Works offline since it's running on your own infrastructure
+- **No Vendor Lock-in**: Own your data and export it anytime
 
 ## Features
 
